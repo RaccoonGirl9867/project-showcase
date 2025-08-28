@@ -12,7 +12,7 @@ export const projects = [
     },
     image: "",
     liveSite: "https://raccoongirl9867.github.io/Earth-To-The-City/",
-    githubRepo: "",
+    githubRepo: "https://github.com/RaccoonGirl9867/Earth-To-The-City",
   },
   // Add more projects here...
 ];
