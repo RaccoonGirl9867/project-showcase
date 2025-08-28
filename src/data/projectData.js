@@ -7,8 +7,8 @@ export const projects = [
       es: "",
     },
     description: {
-      en: "",
-      es: "",
+      en: "Earth to the City",
+      es: "Earth to the City",
     },
     image: "",
     liveSite: "",
