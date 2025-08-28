@@ -11,7 +11,7 @@ export const projects = [
       es: "Earth to the City",
     },
     image: "",
-    liveSite: "",
+    liveSite: "https://raccoongirl9867.github.io/Earth-To-The-City/",
     githubRepo: "",
   },
   // Add more projects here...
